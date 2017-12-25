@@ -1,0 +1,26 @@
+body {
+  font-family: verdana;
+  font weight: normal;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+.header {
+  font-size: 50px;
+}
+#subheader {
+  color: aquamarine;
+  font-size: 16px
+}
+#header {
+  font-weight: 300;
+  font-size: 42px;
+}
+#sub {
+  font-size: 21px;
+  color: gray;
+}
+#corp {
+  text-align: right;
+  color: gray;
+}
