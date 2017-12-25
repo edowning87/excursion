@@ -5,7 +5,7 @@ body {
   background-color: black;
   text-align: center;
 }
-.header {
+#header {
   font-size: 50px;
 }
 #subheader {
